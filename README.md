@@ -1,4 +1,4 @@
-##MyToken
+#MyToken
 
 This Solidity program is a simple token contract that demonstrates basic token functionality, such as minting and burning tokens. The purpose of this program is to serve as a starting point for those who are new to Solidity and want to get a feel for how token contracts work.
 
@@ -10,7 +10,7 @@ This program is a simple contract written in Solidity, a programming language us
 
 ##Getting Started
 
-##Executing Program
+###Executing Program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at Remix IDE.
 
